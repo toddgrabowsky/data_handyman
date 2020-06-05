@@ -1,0 +1,5 @@
+# The Guild {#the_guild}
+
+When I was in middle school, my friend taught me to juggle during our tennis unit in PE class. We started with tennis balls and worked our way up to tennis rackets. This same friend and I ended up going to the same university where he became president of the "Juggler's Guild". We called ourselves a "guild" because juggling is a craft. I believe that data and coding skills are also a craft. 
+
+When I say that data/coding is a craft, what I mean is that it's as much an art as it is science. There's no single best way to solve any problem, but there are definitely best practices and conventions that have developed over time. These best practices are sometimes passed down in classrooms, but I would argue that they are more often shared through experience. Like other guild crafts, I think the intangible "art" of data and coding makes it conducive to an apprenticeship model (though, of course, there is still a lot that can be learned from books/blogs/articles and in the classroom as well). 
